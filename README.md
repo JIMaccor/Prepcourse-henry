@@ -1,2 +1,1 @@
-# Prepcourse-henry
-este repositorio es de prueba del modulo 2
+este es un proyecto de Prepcurse
